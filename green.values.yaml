@@ -1,2 +1,4 @@
 appName: green
 tag: v1.0.0
+accountId: "828680151668"
+targetGroupArn: arn:aws:elasticloadbalancing:ap-northeast-2:828680151668:targetgroup/skills-green-tg/7a0818aa6cc3825f
