@@ -1,4 +1,4 @@
 appName: red
-tag: v1.0.0
+tag: v1.0.1
 accountId: "073813292468"
 targetGroupArn: arn:aws:elasticloadbalancing:ap-northeast-2:073813292468:targetgroup/skills-red-tg/c1ee9d49bb1f074c
